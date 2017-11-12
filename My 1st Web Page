@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head><title>My First Web Page</title></head>
+<body>
+<p> Poem
+<ul>
+<li> Roses are Red<br>
+	<li> Roses are red<br>
+	<li>violets are blue<br>
+	<li>can’t remember the rest of the poem>
+	</ul>
+Definition of “can”
+<ol>
+<li> verb   modal verb: can
+	<li>1. be able to.
+<li>2. be permitted to.
+<li>3. used to indicate that something is typically the case.
+</ol>
+</body>
+</html>
